@@ -1,9 +1,5 @@
 /***************************
-@Author: Chunel
-@Contact: chunel@foxmail.com
 @File: UAllocator.h
-@Time: 2021/10/28 9:15 下午
-@Desc:
 ***************************/
 
 #ifndef UALLOCATOR_H

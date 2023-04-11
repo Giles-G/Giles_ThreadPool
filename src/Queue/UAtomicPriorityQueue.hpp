@@ -1,7 +1,7 @@
 /***************************
 @File: UAtomicPriorityQueue.h
-@Desc: 线程安全的优先队列。因为
-priority_queue和queue的弹出方式不一致，故暂时不做合并
+@Desc: 线程安全的优先队列。因为priority_queue
+       和queue的弹出方式不一致，故暂时不做合并
 ***************************/
 
 #ifndef UATOMICPRIORITYQUEUE_HPP
